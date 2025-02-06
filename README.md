@@ -20,6 +20,7 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+ <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23e0d850?style=for-the-badge&logo=javascript&logoColor=%23e0d850&labelColor=%23282828&color=%23282828">
 
 
 ## 💻 Projeto
