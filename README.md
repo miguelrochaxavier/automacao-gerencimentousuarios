@@ -26,7 +26,7 @@
 ## 💻 Projeto
 
 <p align="left"> 
-    <h3>Neste projeto, automatizei o processo de cadastro de usuários utilizando bibliotecas Python como PyAutoGUI para interação com a interface gráfica, Pandas para manipulação e organização de dados, e Time para inserir delays e garantir a execução adequada das ações. O objetivo foi otimizar a inserção de dados e reduzir erros, criando uma solução eficiente para registrar usuários de forma automática. O projeto ainda está em desenvolvimento, portanto, pode haver bugs ou áreas que requerem ajustes.</h3>
+    <h3>Neste projeto, automatizei o processo de cadastro de usuários utilizando bibliotecas Python como PyAutoGUI para interação com a interface gráfica, Pandas para manipulação e organização de dados, e Time para inserir delays e garantir a execução adequada das ações; O objetivo foi otimizar a inserção de dados e reduzir erros, criando uma solução eficiente para registrar usuários de forma automática. O projeto ainda está em desenvolvimento, portanto, pode haver bugs ou áreas que requerem ajustes.</h3>
 </p>
 
  
